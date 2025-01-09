@@ -1,0 +1,3 @@
+[Course 1, Week1, Lesson1]https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&index=1
+
+This course introduces the practical skills required to take a machine learning (ML) model from training to production deployment. It emphasizes that building a model is only a small part of the journey, with challenges like deployment, monitoring, handling concept drift, and bridging the proof-of-concept to production gap being critical. By the end of the course, learners will understand the entire ML project life cycle, including managing the extensive software ecosystem beyond the ML code.
